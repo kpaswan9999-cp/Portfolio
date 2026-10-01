@@ -3,8 +3,8 @@
 > Personal developer portfolio built with **React 19**, **TypeScript**, **Tailwind CSS 4**, and **Vite 8**.  
 > Designed with the minimalist aesthetic inspired by [sanidhyy.name](https://www.sanidhyy.name/), featuring transparent ambient lighting, verified credential modals, dynamic project showcases, and instant resume downloads.
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fkpaswan9999-cp%2FPortfolio)
-
+[[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fkpaswan9999-cp%2FPortfolio)
+](https://portfolio-sepia-kappa-60.vercel.app/)
 ---
 
 ## 🌟 Key Features
